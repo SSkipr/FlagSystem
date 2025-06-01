@@ -51,13 +51,7 @@ A Discord bot for managing user notes, categories, and flags, with rich user inf
 
 ---
 
-## Screenshots
-
-> _Add your screenshots here showing the bot in action!_
-
----
-
-## Setup & Installation
+## Setup & Installation (install Locally)
 
 1. **Clone the repository**
    ```sh
@@ -94,18 +88,6 @@ A Discord bot for managing user notes, categories, and flags, with rich user inf
 ## API Usage
 
 - This bot uses the [DiscordLookup API](https://discordlookup.mesalytic.moe/) to fetch user profile information for display in embeds.
-
----
-
-## Invite Link
-
-- [Invite the bot to your server](https://discord.com/oauth2/authorize?client_id=1378495069275029615)
-
----
-
-## License
-
-MIT
 
 ---
 
